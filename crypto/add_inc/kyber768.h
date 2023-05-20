@@ -1,0 +1,19 @@
+#ifndef __ALL_HEADERS__
+#define __ALL_HEADERS__
+#include "../kyber_kem/kyber768/aes256ctr.h"
+#include "../kyber_kem/kyber768/api.h"
+#include "../kyber_kem/kyber768/cbd.h"
+#include "../kyber_kem/kyber768/fips202.h"
+#include "../kyber_kem/kyber768/indcpa.h"
+#include "../kyber_kem/kyber768/kem.h"
+#include "../kyber_kem/kyber768/ntt.h"
+#include "../kyber_kem/kyber768/params.h"
+#include "../kyber_kem/kyber768/poly.h"
+#include "../kyber_kem/kyber768/polyvec.h"
+#include "../kyber_kem/kyber768/reduce.h"
+#include "../kyber_kem/kyber768/rng.h"
+#include "../kyber_kem/kyber768/sha2.h"
+#include "../kyber_kem/kyber768/speed_print.h"
+#include "../kyber_kem/kyber768/symmetric.h"
+#include "../kyber_kem/kyber768/verify.h"
+#endif
